@@ -1,4 +1,5 @@
-# This is a complete python3 learning cookbook with all the necessary topics and free open-source materials to master the language.
+# Pyhon3 Cookbook
+This is a complete python3 learning guide with all the necessary topics and free open-source materials to master the language.
 
 ## Basics:
 - [Basics: Literals, Strings, Data Types, Indentation](https://python.swaroopch.com/basics.html)

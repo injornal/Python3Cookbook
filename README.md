@@ -16,6 +16,11 @@ This is a complete python3 learning guide with all the necessary topics and free
 - [Contex Management, the `with` keyword](https://realpython.com/python-with-statement/) (_you can skip "Using the async with Statement" and return to it after learning Asyncio_)
 - [Error Handling](https://python.swaroopch.com/exceptions.html)
 
+## Python3 in Practice
+- [Virtual Environment (venv)](https://pythonisrad.medium.com/venv-this-aint-your-grandpa-s-virtual-environment-ecc4921f6e7a)
+- [pip the package manager]
+- [mypy and typehints]
+  
 ## Intermediate Concepts
 - [Iterators]
 - [Generators]
@@ -27,6 +32,3 @@ This is a complete python3 learning guide with all the necessary topics and free
 - [Multithreading/multiprocessing]
 - [Asyncio](https://discord.com/channels/@me/1219360635566030901/1279609999022362656)
 
-## Python3 in Practice
-- [pip the package manager]
-- [mypy and typehints]

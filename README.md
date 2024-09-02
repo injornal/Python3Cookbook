@@ -13,7 +13,7 @@ This is a complete python3 learning guide with all the necessary topics and free
 - [Duck Typing](https://www.kdnuggets.com/duck-duck-code-an-introduction-to-pythons-duck-typing)
 - [Magic Methods](https://www.tutorialsteacher.com/python/magic-methods-in-python)
 - [Elementary Input/Output](https://python.swaroopch.com/io.html)
-- [Contex Management, the `with` keyword](https://realpython.com/python-with-statement/)
+- [Contex Management, the `with` keyword](https://realpython.com/python-with-statement/) (_you can skip "Using the async with Statement" and return to it after learning Asyncio_)
 - [Error Handling](https://python.swaroopch.com/exceptions.html)
 
 ## Intermediate Concepts

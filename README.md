@@ -13,16 +13,18 @@ This is a complete python3 learning guide with all the necessary topics and free
 - [Duck Typing](https://www.kdnuggets.com/duck-duck-code-an-introduction-to-pythons-duck-typing)
 - [Magic Methods](https://www.tutorialsteacher.com/python/magic-methods-in-python)
 - [Elementary Input/Output](https://python.swaroopch.com/io.html)
-- [Contex Management, the `with` keyword](https://realpython.com/python-with-statement/) (_you can skip "Using the async with Statement" and return to it after learning Asyncio_)
+- Contex Management, the `with` keyword:
+  - https://realpython.com/python-with-statement/ (_you can skip "Using the async with Statement" and return to it after learning Asyncio_)
+  - https://book.pythontips.com/en/latest/context_managers.html
 - [Error Handling](https://python.swaroopch.com/exceptions.html)
 
 ## Python3 in Practice
 - [Virtual Environment (venv)](https://pythonisrad.medium.com/venv-this-aint-your-grandpa-s-virtual-environment-ecc4921f6e7a)
-- [pip the package manager]
+- [pip the package manager](https://www.datacamp.com/tutorial/pip-python-package-manager)
 - [mypy and typehints]
   
 ## Intermediate Concepts
-- [Iterators]
+- [Iterators](https://www.w3schools.com/python/python_iterators.asp)
 - [Generators]
 - [Python as a Pure OOP Language]
 - [Lambdas]
